@@ -38,3 +38,6 @@ Provides an interactive overview of retail sales performance to help identify re
 - Dataset
 - DAX measures
 - Dashboard screenshots
+## Dashboard Preview
+
+![Retail Sales Performance Dashboard](screenshots/dashboard-overview.png)
